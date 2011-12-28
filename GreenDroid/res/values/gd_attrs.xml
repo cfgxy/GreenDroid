@@ -202,6 +202,6 @@
 			<enum name="single" value="0" />
 			<enum name="multiple" value="1" />
 		</attr>
-    </declare-styleable>
+  </declare-styleable>
 
 </resources>
