@@ -30,8 +30,16 @@
     <dependency>
       <groupId>com.google.android.maps</groupId>
       <artifactId>maps</artifactId>
-      <version>7_r1</version>
+      <version>4_r2</version>
       <scope>provided</scope>
+    </dependency>
+    
+    
+    <dependency>
+      <groupId>greendroid</groupId>
+      <artifactId>greendroid</artifactId>
+      <version>1.5</version>
+      <type>apklib</type>
     </dependency>
   </dependencies>
 
