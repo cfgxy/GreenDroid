@@ -644,7 +644,6 @@ public class PagedView extends ViewGroup {
     };
 
     private Runnable mScrollerRunnable = new Runnable() {
-        @Override
         public void run() {
             final Scroller scroller = mScroller;
             if (!scroller.isFinished()) {
